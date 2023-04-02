@@ -1,0 +1,15 @@
+p {
+  color: rgb(40, 40, 161);
+  font-size: larger;
+}
+p {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+p {
+  background-color: aquamarine;
+  text-decoration: dotted;
+}
+div:hover p {
+  display: block;
+}
