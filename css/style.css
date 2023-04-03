@@ -6,10 +6,3 @@ p {
   text-decoration-line: underline;
   text-decoration-style: solid;
 }
-p {
-  background-color: aquamarine;
-  text-decoration: dotted;
-}
-div:hover p {
-  display: block;
-}

@@ -1,0 +1,9 @@
+p {
+  background-color: aquamarine;
+  text-decoration: dotted;
+  display: none;
+}
+div:hover p {
+  display: block;
+  text:
+}
